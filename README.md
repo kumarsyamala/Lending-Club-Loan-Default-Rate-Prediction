@@ -10,6 +10,8 @@ So many Banks are in financial losses. To decreases the losses for bank in the f
 The “Lending Club" is a "peer to peer" lending company that provides various loans for individuals looking to finance personal loans, business loans, auto refinancing loans and medical loans. The loan data for this project was obtained through Kaggle and consists of loans issued from 2007 - 2015. Solving this case study will give us an idea about how real business problems are solved using EDA and Machine Learning. In this case study, we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 We took a Sample data of 5 Months in 2015 1,51,618 records and 74 columns. Through this Data I am going to use the EDA and Machine Learning techniques to predict the real business problem of Risk Analysis.
  
+ ![image](https://user-images.githubusercontent.com/82040540/126468264-54da86d1-ab45-4b90-ad86-05d4a103fb0a.png)
+
  
 Business Problem Statement (GOALS)
 1.	Understanding the Business Problem 
